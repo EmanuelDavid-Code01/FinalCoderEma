@@ -1,0 +1,2 @@
+Este archivo está para que git suba la carpeta 'documents' ya que es necesaria para el proyecto.
+NO ELIMINAR

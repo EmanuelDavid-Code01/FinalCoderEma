@@ -1,0 +1,136 @@
+[31merror[39m: 30/10/2023, 15:33:22: Error test message
+[31merror[39m: 8/11/2023, 21:11:24: Error al enviar el correo: Error: Invalid login: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials y36-20020a25ad24000000b00d8674371317sm7058847ybi.36 - gsmtp
+[31merror[39m: 8/11/2023, 22:04:37: Error al obtener el link de recuperación: CastError: Cast to ObjectId failed for value "654c2c6a9f5bb63b49a159952" (type string) at path "_id" for model "passwordrecoverycollection"
+[31merror[39m: 8/11/2023, 22:04:42: Error al obtener el link de recuperación: CastError: Cast to ObjectId failed for value "654c2c6a9f5bb63b49a159952" (type string) at path "_id" for model "passwordrecoverycollection"
+[31merror[39m: 8/11/2023, 22:04:57: Error al obtener el link de recuperación: CastError: Cast to ObjectId failed for value "654c2c6a9f5bb63b49a159952ds" (type string) at path "_id" for model "passwordrecoverycollection"
+[31merror[39m: 8/11/2023, 22:05:05: Error al validar el tiempo: TypeError: Cannot read properties of null (reading 'createdAt')
+[31merror[39m: 8/11/2023, 22:05:17: Error al obtener el link de recuperación: CastError: Cast to ObjectId failed for value "654c2c6a9f5bb63b49a1599" (type string) at path "_id" for model "passwordrecoverycollection"
+[31merror[39m: 8/11/2023, 22:05:45: Error al obtener el link de recuperación: CastError: Cast to ObjectId failed for value "654c2c6a9f5bb63b49a1599" (type string) at path "_id" for model "passwordrecoverycollection"
+[31merror[39m: 8/11/2023, 22:06:15: Error al obtener el link de recuperación: CastError: Cast to ObjectId failed for value "654c2c6a9f5bb63b49a1599" (type string) at path "_id" for model "passwordrecoverycollection"
+[31merror[39m: 8/11/2023, 22:06:35: Error al obtener el link de recuperación: CastError: Cast to ObjectId failed for value "654c2c6a9f5bb63b49a1599" (type string) at path "_id" for model "passwordrecoverycollection"
+[31merror[39m: 8/11/2023, 22:06:37: Error al obtener el link de recuperación: CastError: Cast to ObjectId failed for value "654c2c6a9f5bb63b49a1599" (type string) at path "_id" for model "passwordrecoverycollection"
+[31merror[39m: 8/11/2023, 22:06:50: Error al obtener el link de recuperación: CastError: Cast to ObjectId failed for value "654c2c6a9f5bb63b49a1599" (type string) at path "_id" for model "passwordrecoverycollection"
+[31merror[39m: 8/11/2023, 22:07:21: Error al obtener el link de recuperación: CastError: Cast to ObjectId failed for value "654c2c6a9f5bb63b49a1599" (type string) at path "_id" for model "passwordrecoverycollection"
+[31merror[39m: 9/11/2023, 09:02:05: Error al obtener el link de recuperación: CastError: Cast to ObjectId failed for value "654c2c6a9f5bb63b49a1599" (type string) at path "_id" for model "passwordrecoverycollection"
+[31merror[39m: 9/11/2023, 09:02:06: Error al obtener el link de recuperación: CastError: Cast to ObjectId failed for value "654c2c6a9f5bb63b49a1599" (type string) at path "_id" for model "passwordrecoverycollection"
+[31merror[39m: 9/11/2023, 09:02:08: Error al obtener el link de recuperación: CastError: Cast to ObjectId failed for value "654c2c6a9f5bb63b49a1599" (type string) at path "_id" for model "passwordrecoverycollection"
+[31merror[39m: 9/11/2023, 09:02:30: Error al obtener el link de recuperación: CastError: Cast to ObjectId failed for value "654c2c6a9f5bb63b49a1599" (type string) at path "_id" for model "passwordrecoverycollection"
+[31merror[39m: 9/11/2023, 09:02:34: Error al obtener el link de recuperación: CastError: Cast to ObjectId failed for value "654c2c6a9f5bb63b49a1599" (type string) at path "_id" for model "passwordrecoverycollection"
+[31merror[39m: 9/11/2023, 09:02:36: Error al obtener el link de recuperación: CastError: Cast to ObjectId failed for value "654c2c6a9f5bb63b49a1599" (type string) at path "_id" for model "passwordrecoverycollection"
+[31merror[39m: 9/11/2023, 09:02:58: Error al obtener el link de recuperación: CastError: Cast to ObjectId failed for value "654c2c6a9f5bb63b49a1599" (type string) at path "_id" for model "passwordrecoverycollection"
+[31merror[39m: 9/11/2023, 09:03:20: Error al obtener el link de recuperación: CastError: Cast to ObjectId failed for value "654c2c6a9f5bb63b49a1599" (type string) at path "_id" for model "passwordrecoverycollection"
+[31merror[39m: 9/11/2023, 09:03:21: Error al obtener el link de recuperación: CastError: Cast to ObjectId failed for value "654c2c6a9f5bb63b49a1599" (type string) at path "_id" for model "passwordrecoverycollection"
+[31merror[39m: 9/11/2023, 09:03:22: Error al obtener el link de recuperación: CastError: Cast to ObjectId failed for value "654c2c6a9f5bb63b49a1599" (type string) at path "_id" for model "passwordrecoverycollection"
+[31merror[39m: 9/11/2023, 09:03:54: Error al obtener el link de recuperación: CastError: Cast to ObjectId failed for value "654c2c6a9f5bb63b49a159952" (type string) at path "_id" for model "passwordrecoverycollection"
+[31merror[39m: 9/11/2023, 13:45:10: Error al enviar el correo: Error: No recipients defined
+[31merror[39m: 9/11/2023, 13:46:24: Error al enviar el correo: Error: No recipients defined
+[31merror[39m: 9/11/2023, 13:46:48: Error al enviar el correo: Error: No recipients defined
+[31merror[39m: 9/11/2023, 13:47:11: Error al enviar el correo: Error: No recipients defined
+[31merror[39m: 9/11/2023, 13:47:34: Error al enviar el correo: Error: No recipients defined
+[31merror[39m: 9/11/2023, 13:48:02: Error al enviar el correo: Error: No recipients defined
+[31merror[39m: 9/11/2023, 13:48:26: Error al enviar el correo: Error: No recipients defined
+[31merror[39m: 9/11/2023, 13:48:38: Error al enviar el correo: Error: No recipients defined
+[31merror[39m: 9/11/2023, 13:49:04: Error al enviar el correo: Error: No recipients defined
+[31merror[39m: 9/11/2023, 13:49:34: Error al enviar el correo: Error: No recipients defined
+[31merror[39m: 9/11/2023, 13:50:07: Error al enviar el correo: Error: No recipients defined
+[31merror[39m: 9/11/2023, 13:50:36: Error al enviar el correo: Error: No recipients defined
+[31merror[39m: 9/11/2023, 13:53:21: Error al enviar el correo: Error: No recipients defined
+[31merror[39m: 9/11/2023, 13:54:06: Error al enviar el correo: Error: No recipients defined
+[31merror[39m: 9/11/2023, 13:54:30: Error al enviar el correo: Error: No recipients defined
+[31merror[39m: 9/11/2023, 13:56:25: Error al enviar el correo: Error: No recipients defined
+[31merror[39m: 9/11/2023, 14:01:14: Error al crear el link de recuperación: CastError: Cast to ObjectId failed for value "65118fa1783c9fddf46f16632" (type string) at path "_id" for model "users"
+[31merror[39m: 9/11/2023, 16:10:59: Error al crear el link de recuperación: CastError: Cast to ObjectId failed for value "65118fa1783c9fddf46f16632" (type string) at path "_id" for model "users"
+[31merror[39m: 9/11/2023, 16:24:31: Error al crear el link de recuperación: CastError: Cast to ObjectId failed for value "65118fa1783c9fddf46f16632" (type string) at path "_id" for model "users"
+[31merror[39m: 9/11/2023, 17:01:26: Error al crear el link de recuperación: TypeError: Cannot read properties of null (reading 'email')
+[31merror[39m: 9/11/2023, 17:01:26: Error al crear el link de recuperación
+[31merror[39m: 9/11/2023, 17:03:46: Error al crear el link de recuperación: TypeError: Cannot read properties of null (reading 'email')
+[31merror[39m: 9/11/2023, 17:03:46: Error al crear el link de recuperación
+[31merror[39m: 9/11/2023, 17:04:34: Error al crear el link de recuperación: TypeError: Cannot read properties of null (reading 'email')
+[31merror[39m: 9/11/2023, 17:04:34: Error al crear el link de recuperación
+[31merror[39m: 9/11/2023, 17:05:11: Error al crear el link de recuperación: TypeError: Cannot read properties of null (reading 'email')
+[31merror[39m: 9/11/2023, 17:05:11: Error al crear el link de recuperación
+[31merror[39m: 9/11/2023, 17:05:39: Error al crear el link de recuperación2: TypeError: Cannot read properties of null (reading 'email')
+[31merror[39m: 9/11/2023, 17:05:39: Error al crear el link de recuperación
+[31merror[39m: 9/11/2023, 17:06:13: Error al crear el link de recuperación: TypeError: Cannot read properties of null (reading 'email')
+[31merror[39m: 9/11/2023, 17:06:13: Error al crear el link de recuperación
+[31merror[39m: 9/11/2023, 17:08:57: Error al crear el link de recuperación: TypeError: Cannot read properties of null (reading 'email')
+[31merror[39m: 9/11/2023, 17:08:57: Error al crear el link de recuperación
+[31merror[39m: 9/11/2023, 17:09:20: Error al crear el link de recuperación: TypeError: Cannot read properties of null (reading 'email')
+[31merror[39m: 9/11/2023, 17:09:20: Error al crear el link de recuperación
+[31merror[39m: 9/11/2023, 17:09:36: Error al crear el link de recuperación: TypeError: Cannot read properties of null (reading 'email')
+[31merror[39m: 9/11/2023, 17:09:36: Error al crear el link de recuperación
+[31merror[39m: 9/11/2023, 17:11:10: Error al crear el link de recuperación: TypeError: Cannot read properties of null (reading 'email')
+[31merror[39m: 9/11/2023, 17:11:10: Error al crear el link de recuperación
+[31merror[39m: 9/11/2023, 17:11:24: Error al crear el link de recuperación: TypeError: Cannot read properties of null (reading 'email')
+[31merror[39m: 9/11/2023, 17:11:24: Error al crear el link de recuperación
+[31merror[39m: 9/11/2023, 17:17:32: Error al crear el link de recuperación: TypeError: Cannot read properties of null (reading 'email')
+[31merror[39m: 9/11/2023, 17:17:32: Error al crear el link de recuperación
+[31merror[39m: 9/11/2023, 17:18:51: Error al crear el link de recuperación: TypeError: Cannot read properties of null (reading 'email')
+[31merror[39m: 9/11/2023, 17:18:51: Error al crear el link de recuperación
+[31merror[39m: 9/11/2023, 17:19:08: Error al crear el link de recuperación: TypeError: Cannot read properties of null (reading 'email')
+[31merror[39m: 9/11/2023, 17:19:08: Error al crear el link de recuperación
+[31merror[39m: 9/11/2023, 17:28:05: Error al crear el link de recuperación
+[31merror[39m: 9/11/2023, 17:30:43: Error al crear el link de recuperación
+[31merror[39m: 9/11/2023, 17:52:10: Error al actualizar la contraseña: ReferenceError: password is not defined
+[31merror[39m: 9/11/2023, 17:52:19: Error al actualizar la contraseña: ReferenceError: password is not defined
+[31merror[39m: 9/11/2023, 18:08:42: Error al actualizar la contraseña: Error: data and hash arguments required
+[31merror[39m: 9/11/2023, 18:08:45: Error al actualizar la contraseña: Error: data and hash arguments required
+[31merror[39m: 9/11/2023, 18:08:47: Error al actualizar la contraseña: Error: data and hash arguments required
+[31merror[39m: 9/11/2023, 18:11:17: Error al actualizar la contraseña: TypeError: Cannot set properties of undefined (setting 'password')
+[31merror[39m: 9/11/2023, 18:11:19: Error al actualizar la contraseña: TypeError: Cannot set properties of undefined (setting 'password')
+[31merror[39m: 9/11/2023, 18:12:01: Error al actualizar la contraseña: Error: data and hash arguments required
+[31merror[39m: 9/11/2023, 18:12:45: Error al actualizar la contraseña: Error: data and hash arguments required
+[31merror[39m: 9/11/2023, 18:12:47: Error al actualizar la contraseña: Error: data and hash arguments required
+[31merror[39m: 9/11/2023, 18:12:48: Error al actualizar la contraseña: Error: data and hash arguments required
+[31merror[39m: 9/11/2023, 18:12:50: Error al actualizar la contraseña: Error: data and hash arguments required
+[31merror[39m: 13/11/2023, 11:04:33: Error al leer el producto: CastError: Cast to ObjectId failed for value "sdgsdg" (type string) at path "_id" for model "products"
+[31merror[39m: 13/11/2023, 11:25:14: Cast to ObjectId failed for value "1" (type string) at path "_id" for model "users"
+[31merror[39m: 13/11/2023, 11:29:35: Cannot read properties of null (reading 'role')
+[31merror[39m: 13/11/2023, 11:30:05: Cannot read properties of null (reading 'role')
+[31merror[39m: 13/11/2023, 11:30:26: Cannot set headers after they are sent to the client
+[31merror[39m: 13/11/2023, 11:30:49: Cannot set headers after they are sent to the client
+[31merror[39m: 13/11/2023, 11:30:53: Cannot set headers after they are sent to the client
+[31merror[39m: 13/11/2023, 11:31:13: Cannot set headers after they are sent to the client
+[31merror[39m: 13/11/2023, 11:31:15: Cannot set headers after they are sent to the client
+[31merror[39m: 13/11/2023, 11:31:20: Cannot set headers after they are sent to the client
+[31merror[39m: 13/11/2023, 11:31:41: Cannot set headers after they are sent to the client
+[31merror[39m: 13/11/2023, 11:32:46: Cannot set headers after they are sent to the client
+[31merror[39m: 15/11/2023, 22:12:21: Error al obtener el carrito: CastError: Cast to ObjectId failed for value "3323" (type string) at path "_id" for model "carts"
+[31merror[39m: 15/11/2023, 22:12:36: Error al obtener el carrito: CastError: Cast to ObjectId failed for value "33235234235" (type string) at path "_id" for model "carts"
+[31merror[39m: 15/11/2023, 22:12:57: Error al obtener el carrito: CastError: Cast to ObjectId failed for value "33235234235" (type string) at path "_id" for model "carts"
+[31merror[39m: 15/11/2023, 22:13:05: Error al obtener el carrito: CastError: Cast to ObjectId failed for value "fasd32" (type string) at path "_id" for model "carts"
+[31merror[39m: 15/11/2023, 22:16:03: Error al obtener el carrito: CastError: Cast to ObjectId failed for value "650e3115e64c0e4de34c14422" (type string) at path "_id" for model "carts"
+[31merror[39m: 17/11/2023, 21:51:05: Error al obtener el carrito: CastError: Cast to ObjectId failed for value "dasfasd" (type string) at path "_id" for model "carts"
+[31merror[39m: 17/11/2023, 21:51:10: Error al obtener el carrito: CastError: Cast to ObjectId failed for value "{cid}" (type string) at path "_id" for model "carts"
+[31merror[39m: 17/11/2023, 21:51:13: Error al obtener el carrito: CastError: Cast to ObjectId failed for value "{cid}" (type string) at path "_id" for model "carts"
+[31merror[39m: 17/11/2023, 21:52:42: Error al obtener el carrito: CastError: Cast to ObjectId failed for value "{cid}" (type string) at path "_id" for model "carts"
+[31merror[39m: 17/11/2023, 21:53:04: Error al obtener el carrito: CastError: Cast to ObjectId failed for value "dasf" (type string) at path "_id" for model "carts"
+[31merror[39m: 17/11/2023, 21:53:08: Error al obtener el carrito: CastError: Cast to ObjectId failed for value "{cid}" (type string) at path "_id" for model "carts"
+[31merror[39m: 17/11/2023, 21:53:09: Error al obtener el carrito: CastError: Cast to ObjectId failed for value "{cid}" (type string) at path "_id" for model "carts"
+[31merror[39m: 17/11/2023, 21:53:10: Error al obtener el carrito: CastError: Cast to ObjectId failed for value "{cid}" (type string) at path "_id" for model "carts"
+[31merror[39m: 17/11/2023, 21:53:10: Error al obtener el carrito: CastError: Cast to ObjectId failed for value "{cid}" (type string) at path "_id" for model "carts"
+[31merror[39m: 17/11/2023, 21:53:22: Error al obtener el carrito: CastError: Cast to ObjectId failed for value "{cid}" (type string) at path "_id" for model "carts"
+[31merror[39m: 17/11/2023, 21:53:26: Error al obtener el carrito: CastError: Cast to ObjectId failed for value "{cid}" (type string) at path "_id" for model "carts"
+[31merror[39m: 17/11/2023, 21:53:41: Error al obtener el carrito: CastError: Cast to ObjectId failed for value "{cid}" (type string) at path "_id" for model "carts"
+[31merror[39m: 17/11/2023, 21:53:45: Error al obtener el carrito: CastError: Cast to ObjectId failed for value "{cid}" (type string) at path "_id" for model "carts"
+[31merror[39m: 17/11/2023, 21:54:11: Error al obtener el carrito: CastError: Cast to ObjectId failed for value "fsadasd" (type string) at path "_id" for model "carts"
+[31merror[39m: 17/11/2023, 22:20:48: Error al obtener el carrito: CastError: Cast to ObjectId failed for value "2" (type string) at path "_id" for model "carts"
+[31merror[39m: 17/11/2023, 22:21:49: Error al obtener el carrito: CastError: Cast to ObjectId failed for value "3" (type string) at path "_id" for model "carts"
+[31merror[39m: 17/11/2023, 22:22:07: Error al obtener el carrito: CastError: Cast to ObjectId failed for value "3" (type string) at path "_id" for model "carts"
+[31merror[39m: 17/11/2023, 23:10:13: Error al leer el producto: CastError: Cast to ObjectId failed for value "dasfasd" (type string) at path "_id" for model "products"
+[31merror[39m: 17/11/2023, 23:16:52: Error al leer el producto: CastError: Cast to ObjectId failed for value "dasf" (type string) at path "_id" for model "products"
+[31merror[39m: 29/11/2023, 14:35:23: Error al leer el producto: CastError: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "products"
+[31merror[39m: 18/12/2023, 11:11:22: Error al enviar el correo: TypeError: Cannot read properties of undefined (reading 'to')
+[31merror[39m: 18/12/2023, 11:13:01: Error al enviar el correo: SyntaxError: Unexpected token o in JSON at position 1
+[31merror[39m: 18/12/2023, 11:21:42: Error al enviar el correo: Error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials p4-20020a634204000000b005b856fab5e9sm17470686pga.18 - gsmtp
+[31merror[39m: 18/12/2023, 11:21:50: Error al enviar el correo: Error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials w190-20020a6362c7000000b005cd8866cccesm3111779pgb.27 - gsmtp
+[31merror[39m: 26/12/2023, 10:29:50: Error al crear el link de recuperación
+[31merror[39m: 26/12/2023, 11:40:10: Error al crear el link de recuperación
+[31merror[39m: 26/12/2023, 11:40:26: Error al crear el link de recuperación
+[31merror[39m: 3/1/2024, 23:48:15: Error al crear el link de recuperación
+[31merror[39m: 3/1/2024, 23:48:19: Error al crear el link de recuperación
+[31merror[39m: 4/1/2024, 1:21:17: Error al crear el link de recuperación
+[31merror[39m: 4/1/2024, 1:21:46: Error al crear el link de recuperación
